@@ -1,6 +1,6 @@
-[![rigoood's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigoood)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dw05131)](https://solved.ac/dw05131/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnce)](https://solved.ac/dnce/)
+[![rigoood's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigoood)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
