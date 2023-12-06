@@ -5,8 +5,10 @@
 
 <br>
 
+[![rigoood's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigoood&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigoood&layout=compact&theme=dark) 
-[![rigoood's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigoood)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
 <!--
