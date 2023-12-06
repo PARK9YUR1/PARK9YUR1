@@ -4,20 +4,15 @@
 
 <!-- solved.ac 잔디 -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dw05131&theme=warm)
-<!-- <img src="http://mazandi.herokuapp.com/api?handle=dw05131&theme=warm"/> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigoood&layout=compact&theme=dark) 
+
+[![rigoood's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigoood&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dw05131)](https://solved.ac/dw05131)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dw05131)](https://solved.ac/dw05131/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnce)](https://solved.ac/dnce/) -->
-
-<br>
-
-[![rigoood's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigoood&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigoood&layout=compact&theme=dark) 
 
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
 <!--
