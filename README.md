@@ -4,7 +4,7 @@
 
 <!-- solved.ac 잔디 -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dw05131&theme=warm)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigoood&layout=compact&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigoood&layout=compact) 
 
 <!-- stats
 [![rigoood's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigoood&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
