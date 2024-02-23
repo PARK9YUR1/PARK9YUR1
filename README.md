@@ -1,6 +1,6 @@
-<!-- VISIT / 백준 티어 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frigoood%2Fhit-counter&count_bg=%23DDAA83&title_bg=%238B8178&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dw05131)](https://solved.ac/dw05131)
+<!-- VISIT / 백준 티어
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frigoood%2Fhit-counter&count_bg=%23DDAA83&title_bg=%238B8178&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)  -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dw05131)](https://solved.ac/dw05131)
 
 <!-- solved.ac 잔디 -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dw05131&theme=warm)
