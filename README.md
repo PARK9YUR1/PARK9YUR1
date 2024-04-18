@@ -7,12 +7,14 @@
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dnce&theme=warm) -->
 
 <!-- 💚 언어사용多 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARK9YUR1&layout=compact) 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARK9YUR1&layout=compact) -->
 
 <!-- 💚 깃통계
 [![PARK9YUR1's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARK9YUR1&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
 [![PARK9YUR1's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARK9YUR1&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARK9YUR1&layout=compact&theme=dracula) 
 
 <!-- 💚 솔브닥
 [![Solved.ac
