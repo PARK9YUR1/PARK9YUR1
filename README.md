@@ -1,6 +1,11 @@
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dw05131)](https://solved.ac/dw05131)<br>
+[![PARK9YUR1's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARK9YUR1&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARK9YUR1&layout=compact&theme=dracula) 
+
+
 <!-- 💚 VISIT / 백준 티어
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPARK9YUR1%2Fhit-counter&count_bg=%23DDAA83&title_bg=%238B8178&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)  -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dw05131)](https://solved.ac/dw05131)
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dw05131)](https://solved.ac/dw05131) -->
 
 <!-- 💚 solved.ac 잔디 -->
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dw05131&theme=warm) -->
@@ -12,9 +17,6 @@
 <!-- 💚 깃통계
 [![PARK9YUR1's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARK9YUR1&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-[![PARK9YUR1's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARK9YUR1&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARK9YUR1&layout=compact&theme=dracula) 
 
 <!-- 💚 솔브닥
 [![Solved.ac
